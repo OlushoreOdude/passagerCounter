@@ -8,7 +8,7 @@ let mainCount = 0;
     function addF(){
       
       if (count === 0 && mainCount === 0){
-        alert("welcome to the station, please count the passengers, don't worry if you make a mistake, just hit the decreast button");
+        alert("welcome to the station, please count the passengers, don't worry if you make a mistake, just hit the decreas button");
         mainCount++;
         count++;
      getId.innerHTML = count;
